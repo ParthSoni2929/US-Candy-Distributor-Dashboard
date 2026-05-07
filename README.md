@@ -113,6 +113,9 @@ Sales show gradual growth from 2021 to 2024.
 Certain products consistently perform better than others.
 Profit margin analysis helps identify profitable business areas.
 
+📷 Dashboard Preview
+![US Candy Distributor Dashboard](dashboard-image.png)
+
 🚀 Future Enhancements
 Add sales forecasting
 Include customer segmentation analysis
