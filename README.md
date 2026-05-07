@@ -114,7 +114,7 @@ Certain products consistently perform better than others.
 Profit margin analysis helps identify profitable business areas.
 
 📷 Dashboard Preview
-![US Candy Distributor Dashboard](dashboard-image.png)
+(https://github.com/ParthSoni2929/US-Candy-Distributor-Dashboard/blob/main/Screenshot%202026-05-06%20015902.png)
 
 🚀 Future Enhancements
 Add sales forecasting
