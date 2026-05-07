@@ -95,7 +95,7 @@ These filters allow users to dynamically analyze data based on selected conditio
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](https://github.com/ParthSoni2929/US-Candy-Distributor-Dashboard/blob/main/Screenshot%202026-05-06%20015902.png)
 
 ---
 
